@@ -17,7 +17,7 @@ AWS Lambda is a serverless compute service that runs your code in response to ev
 Lambda runs your code on high availability compute infrastructure and performs all the administration of your compute resources. This includes server and operating system maintenance, capacity provisioning and automatic scaling, code and security patch deployment, and code monitoring and logging. All you need to do is supply the code.
 
 
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
+![](https://www.simform.com/wp-content/uploads/2018/08/Serverless-Examples-with-AWS-Lambda-Use-Cases.png) 
 
 ## Key product features
 Extend other AWS services with custom logic
@@ -51,24 +51,14 @@ Provisioned Concurrency gives you greater control over your serverless applicati
 ## Connect to shared file systems
 With Amazon Elastic File System (EFS) for AWS Lambda, you can securely read, write, and persist large volumes of data at low latency, at any scale. You don't need to write code and download data to temporary storage in order to process it. This saves time and simplifies the code, so you can focus on your business logic. EFS for Lambda is ideal for a range of use cases including processing or backing up large data amounts, and loading large reference files or models. You can also share files between serverless instances or container-based applications, and even run machine learning (ML) inference by using EFS for AWS Lambda.
 
-Run code in response to Amazon CloudFront requests
+## Run code in response to Amazon CloudFront requests
 With Lambda@Edge, AWS Lambda can run your code across AWS locations globally in response to Amazon CloudFront events, such as content requests to or from origin servers and viewers. This makes it easier to deliver richer, more personalized content to your end users with lower latency. 
-Orchestrate multiple functions
+
+## Orchestrate multiple functions
 Build AWS Step Functions workflows to coordinate multiple AWS Lambda functions for complex or long-running tasks. Step Functions lets you define workflows that trigger a collection of Lambda functions using sequential, parallel, branching, and error-handling steps. With Step Functions and Lambda, you can build stateful, long-running processes for applications and backends.
-Integrated security model
+
+## Integrated security model
 AWS Lambda's built-in software development kit (SDK) integrates with AWS Identity and Access Management (IAM) to ensure secure code access to other AWS services. AWS Lambda runs your code within an Amazon Virtual Private Cloud (VPC) by default. Optionally, you can configure AWS Lambda resource access behind your own VPC in order to leverage custom security groups and network access control lists. This provides secure Lambda function access to your resources within a VPC. AWS Lambda is SOC, HIPAA, PCI, and ISO-compliant. For the latest in Lambda certification and compliance readiness, please see the full services in scope.
-
-
-
-![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
-
-## Enterprises Seek to Eliminate Latency From IoT Networks
-
-
-![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
-
-## Consumer to Embrace Smart Security Devices
-
 
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
