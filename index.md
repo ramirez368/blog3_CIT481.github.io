@@ -16,7 +16,7 @@ AWS Lambda is a serverless compute service that runs your code in response to ev
 
 Lambda runs your code on high availability compute infrastructure and performs all the administration of your compute resources. This includes server and operating system maintenance, capacity provisioning and automatic scaling, code and security patch deployment, and code monitoring and logging. All you need to do is supply the code.
  
-![](https://www.simform.com/wp-content/uploads/2018/08/Serverless-Examples-with-AWS-Lambda-Use-Cases.png)
+![](https://svg.template.creately.com/ipgs8yik1)
 
 ## Build custom backend services
 You can use AWS Lambda to create new backend application services triggered on demand using the Lambda application programming interface (API) or custom API endpoints built using Amazon API Gateway. Lambda processes custom events instead of servicing these on the client, helping you avoid client platform variations, reduce battery drain, and enable easier updates.
