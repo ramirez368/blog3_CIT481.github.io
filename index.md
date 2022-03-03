@@ -38,7 +38,7 @@ AWS Lambda maintains compute capacity across multiple Availability Zones (AZs) i
 AWS Lambda supports function packaging and deployment as container images, making it easy for customers to build Lambda-based applications using familiar container image tooling, workflows, and dependencies. Customers also benefit from Lambda’s operational simplicity, automatic scaling with sub-second startup times, high availability, pay-for-use billing model, and native integrations with over 200 AWS services and software-as-a service (SaaS) applications. Enterprise customers can use a consistent set of tools with both their Lambda and containerized applications, simplifying central governance requirements such as security scanning and image signing.
 
 
-![] (https://www.simform.com/wp-content/uploads/2018/08/Serverless-Examples-with-AWS-Lambda-Use-Cases.png)
+![title](https://www.simform.com/wp-content/uploads/2018/08/Serverless-Examples-with-AWS-Lambda-Use-Cases.png)
 
 
 ## Automatic scaling
